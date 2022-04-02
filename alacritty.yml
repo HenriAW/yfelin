@@ -1,0 +1,34 @@
+  # Y Felin
+  yfelin: &yfelin
+    # Default colors
+    primary:
+      background: '0xc28c4c'
+      foreground: '0x080403'
+
+    # Colors the cursor will use if `custom_cursor_colors` is true
+    cursor:
+      text: '0x3b1101'
+      cursor: '0xccc581'
+
+    # Normal colors
+    normal:
+      black:   '0x040301'
+      red:     '0x170201'
+      green:   '0x422a06'
+      yellow:  '0x723e0e'
+      blue:    '0x0e1108'
+      magenta: '0x34130c'
+      cyan:    '0x2f2a0d'
+      white:   '0xccc581'
+
+    # Bright colors
+    bright:
+      black:   '0x040301'
+      red:     '0x6b140b'
+      green:   '0x1a3603'
+      yellow:  '0x683607'
+      blue:    '0x030538'
+      magenta: '0x460446'
+      cyan:    '0x29545d'
+      white:   '0xccc581'
+
